@@ -150,10 +150,6 @@ form button:hover {
   font-size: 0.9rem;
 }
 
-#opinions p {
-  font-size: 1.5rem;
-}
-
 .votes {
   display: flex;
   gap: 0.5rem;

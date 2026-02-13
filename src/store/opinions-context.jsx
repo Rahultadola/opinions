@@ -1,6 +1,6 @@
 import { createContext, useEffect, useState } from 'react';
 
-const hostURL = "http://localhost:3000/opinions"
+const hostURL = "https://combined-express-portfolio.vercel.app/opinions"
 
 export const OpinionsContext = createContext({
   opinions: [],
